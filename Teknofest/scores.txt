@@ -1,0 +1,11 @@
+scale score
+sum of positive and negative scores(negative sentiment from -1 to -5 and positive score from 1 to 5)
+//////////////////////////////
+dual score
+a positive(from 1 to 5) and a negative score(from -5 to -1)
+////////////////////
+trinary score
+a positive(from 1 to 5), negative score(from -5 to -1) and a neutral score(-1,0,1)
+////////////////////////7
+binary score
+a binary result(1 is positive; -1 is negative)
