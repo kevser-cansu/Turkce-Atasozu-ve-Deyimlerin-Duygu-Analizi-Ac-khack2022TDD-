@@ -1,7 +1,7 @@
 import pandas as pd
 
 synset = pd.read_excel(r"SentiTurkNet\STN.xlsx")
-idioms_data = pd.read_csv(r'Data\idioms_ten_created.csv')
+idioms_data = pd.read_csv(r'Data\idioms_translation_2.csv')
 
 synset_data = synset.loc[:,['synonyms','neg value','obj value', "pos value"]]
 
