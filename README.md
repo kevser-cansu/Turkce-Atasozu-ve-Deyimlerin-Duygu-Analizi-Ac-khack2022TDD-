@@ -1,4 +1,4 @@
-# Turkce-Atasozu-ve-Deyimlerin-Duygu-Analizi-Acıkhack2022TDDİ-
+# Turkce-Atasozu-ve-Deyimlerin-Duygu-Analizi-mAIn-Acıkhack2022TDDİ-Türkiye Açık Kaynak Platformu
 TeknoFest #Acıkhack2022TDDİ “Türkiye Açık Kaynak Platformu”
 
 Bu çalışmanın amacı Türkçe atasözleri ve deyimlerin duygu skorlarını içeren bir veri seti oluşturmaktır.
