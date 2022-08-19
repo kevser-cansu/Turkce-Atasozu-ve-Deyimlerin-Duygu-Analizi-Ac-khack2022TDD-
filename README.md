@@ -24,6 +24,7 @@ Bu çalışmada "0.77" doğruluk oranı elde edilmiştir.
 Not: Çalşımada esas kodlar Codes klasörü içinde; veriler Data klasörü içerisinde yer almaktadır. Repository'yi indirdikten sonra path'lerde gerekli değişiklikleri yaparak kodları çalıştırabilirsiniz. Projede kullandığım tüm veri setlerine https://drive.google.com/drive/folders/1FJ0cxELG31qBWkuCwavcSF0TNgeKZFOn?usp=sharing linkinden ulaşabilirsiniz.
 
 Sunum linki: https://docs.google.com/presentation/d/1e03eXRnRqLjTdXrdbuOoiA1E6PSvlpMW/edit?usp=sharing&ouid=112181703176809335751&rtpof=true&sd=true
+Repository'deki sunum dosyası ise mAIn_Türkçe_Doğal_Dil_İşleme_Deyimler_ve_Atasözleri zip dosyası içerisindedir.
 
 Demo linki: https://drive.google.com/file/d/1X3CgweSin5PLvDMkvGYkdPD9JbZuylYI/view?usp=sharing
-Repository'deki sunum dosyası ise mAIn_Türkçe_Doğal_Dil_İşleme_Deyimler_ve_Atasözleri zip dosyası içerisindedir
+Repository'deki demo dosyası ise demo_mAIn zip dosyası içerisindedir.
