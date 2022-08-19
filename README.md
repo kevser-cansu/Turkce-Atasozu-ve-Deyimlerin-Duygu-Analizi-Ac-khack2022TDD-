@@ -18,10 +18,12 @@ sonra metodları kullanırken absolute path'i kullanmalısınız.
 
 AVCI, Yıldız Yenen. TÜRKİYE TÜRKÇESİ DEYİMLERİNDE DUYGULARIN ANALİZİ. Turkish Studies (Elektronik), 2015, 10.7: 997-1020. DOI:http://dx.doi.org/10.7827/TurkishStudies.8198
 
-Yukarıda referansı verilen yazarın çalışmasından yararlanılarak oluşturduğum veri setinden 276 tanesi negatif "N" ve pozitif "P" şeklinde etiketlenmiştir. Ardından doğruluk değerini hesaplamak adına sentistrength ile elden edilen skorlar ile etiketli veriler karşılaştırılmıştır. 
+Yukarıda referansı verilen yazarın çalışmasından yararlanılarak oluşturduğum veri setinden 276 tanesi negatif "N" ve pozitif "P" şeklinde etiketlenmiştir. Ardından doğruluk değerini hesaplamak adına sentistrength ile elden edilen skorlar ile etiketli veriler karşılaştırılmıştır.  
 Bu çalışmada "0.77" doğruluk oranı elde edilmiştir.
 
 Not: Çalşımada esas kodlar Codes klasörü içinde; veriler Data klasörü içerisinde yer almaktadır. Repository'yi indirdikten sonra path'lerde gerekli değişiklikleri yaparak kodları çalıştırabilirsiniz. Projede kullandığım tüm veri setlerine https://drive.google.com/drive/folders/1FJ0cxELG31qBWkuCwavcSF0TNgeKZFOn?usp=sharing linkinden ulaşabilirsiniz.
 
 Sunum linki: https://docs.google.com/presentation/d/1e03eXRnRqLjTdXrdbuOoiA1E6PSvlpMW/edit?usp=sharing&ouid=112181703176809335751&rtpof=true&sd=true
+
 Demo linki: https://drive.google.com/file/d/1X3CgweSin5PLvDMkvGYkdPD9JbZuylYI/view?usp=sharing
+Repository'deki sunum dosyası ise mAIn_Türkçe_Doğal_Dil_İşleme_Deyimler_ve_Atasözleri şeklindedir.
