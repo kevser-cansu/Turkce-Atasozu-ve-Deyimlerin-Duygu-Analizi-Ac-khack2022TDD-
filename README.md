@@ -21,4 +21,4 @@ AVCI, Yıldız Yenen. TÜRKİYE TÜRKÇESİ DEYİMLERİNDE DUYGULARIN ANALİZİ.
 Yukarıda referansı verilen yazarın çalışmasından yararlanılarak oluşturduğum veri setinden 276 tanesi negatif "N" ve pozitif "P" şeklinde etiketlenmiştir. Ardından doğruluk değerini hesaplamak adına sentistrength ile elden edilen skorlar ile etiketli veriler karşılaştırılmıştır. 
 Bu çalışmada "0.77" doğruluk oranı elde edilmiştir.
 
-Not: Çalşımada esas kodlar Codes klasörü içinde; veriler Data klasörü içerisinde yer almaktadır. Repository'yi indirdikten sonra path'lerde gerekli değişiklikleri yaparak kodları çalıştırabilirsiniz.
+Not: Çalşımada esas kodlar Codes klasörü içinde; veriler Data klasörü içerisinde yer almaktadır. Repository'yi indirdikten sonra path'lerde gerekli değişiklikleri yaparak kodları çalıştırabilirsiniz. Projede kullandığım tüm veri setlerine https://drive.google.com/drive/folders/1FJ0cxELG31qBWkuCwavcSF0TNgeKZFOn?usp=sharing linkinden ulaşabilirsiniz.
