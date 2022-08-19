@@ -4,7 +4,9 @@ pandas == 1.3.5
 nltk == 3.6.7
 sentistrength == 0.0.9
 
+!!!!Ensure that you have SentiStrength.jar file and SentiStrengthData Language folders, otherwise you can download the data from http://sentistrength.wlv.ac.uk/download.html link by registering and also download the jar file from http://sentistrength.wlv.ac.uk/jkpop/
 
+Path should be like this: C:\Users\Kevser Cansu\Documents\SentiStrength.jar and C:\Users\Kevser Cansu\Documents\SentStrength_Data_Sept2011.jar
 
 /////////////////////////
 Requirements for all the preliminary work and codes in the repository:
