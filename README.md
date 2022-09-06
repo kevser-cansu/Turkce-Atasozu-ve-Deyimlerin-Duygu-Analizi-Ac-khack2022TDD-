@@ -25,6 +25,3 @@ Not: Çalşımada esas kodlar Codes klasörü içinde; veriler Data klasörü i�
 
 Sunum linki: https://docs.google.com/presentation/d/1e03eXRnRqLjTdXrdbuOoiA1E6PSvlpMW/edit?usp=sharing&ouid=112181703176809335751&rtpof=true&sd=true
 Repository'deki sunum dosyası ise mAIn_Türkçe_Doğal_Dil_İşleme_Deyimler_ve_Atasözleri zip dosyası içerisindedir.
-
-Demo linki: https://drive.google.com/file/d/1X3CgweSin5PLvDMkvGYkdPD9JbZuylYI/view?usp=sharing
-Repository'deki demo dosyası ise demo_mAIn zip dosyası içerisindedir.
